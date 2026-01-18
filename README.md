@@ -1,2 +1,3 @@
-#Pathfinding algorithms: Djikstra and A*
+# Pathfinding algorithms: Djikstra and A*
+
 
